@@ -1,16 +1,17 @@
-## Hi there 👋
+# Reo Yamashita
 
-<!--
-**pokactx/pokactx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Fukuoka, Japan.
+I build web applications and business systems, end to end.
 
-Here are some ideas to get you started:
+`TypeScript` `React` `AWS` `Terraform` `Cloudflare Workers`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [ogp-parser](https://github.com/pokactx/ogp-parser) — OGP scraping API on Cloudflare Workers
+- [react-cliptext](https://github.com/pokactx/react-cliptext) — Copy-to-clipboard component and hook for React 19
+- [three-tier-web](https://github.com/pokactx/three-tier-web) — Three-tier web architecture on AWS, in Terraform
+- [skills](https://github.com/pokactx/skills) — Agent skills shared across my projects
+
+## Now
+
+Shipping with Claude Code and Grok.
